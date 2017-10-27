@@ -1,0 +1,18 @@
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.pdb
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.exe
+c:\users\emre\documents\visual studio 2013\Projects\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.pdb
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe.config
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.exe
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.pdb
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.pdb
+C:\Users\Emre\Desktop\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.csprojResolveAssemblyReference.cache
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe.config
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.exe
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.pdb
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.exe
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\bin\Debug\Odev3_Soru1.pdb
+D:\BELGELER\Dersler\6.YARIYIL\Operating System\Ödev\Ödev3\Odev3_Soru1\Odev3_Soru1\obj\Debug\Odev3_Soru1.csprojResolveAssemblyReference.cache
